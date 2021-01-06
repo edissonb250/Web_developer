@@ -14,3 +14,5 @@ https://startbootstrap.com/templates/
 
 https://daneden.github.io/animate.css/
 
+https://zerotomastery.io/resources/
+
